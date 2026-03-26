@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/5.6/Engine/Content/EditorMeshes/MatineeCam_SM.uasset",
+				"C:/503/wk7.2/Content/Characters/JoshAssets/Assets/Mozzy.uasset",
+				"C:/503/wk7.2/Content/Characters/JoshAssets/Assets/Mozzy_Sprite.uasset",
 				"C:/Users/316975/OneDrive - Leeds Arts University/Year 2/502_Industry/Shared/Unreal/test1/Content/Variant_Shooter/Blueprints/BP_ShooterCharacter.uasset",
 				"C:/Users/316975/OneDrive - Leeds Arts University/Year 2/502_Industry/Shared/Unreal/test1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/316975/OneDrive - Leeds Arts University/Year 2/502_Industry/Shared/Unreal/test1/Content/Input/Actions/IA_Dash.uasset",
@@ -147,7 +150,6 @@
 				"C:/Users/316975/OneDrive - Leeds Arts University/Year 2/502_Industry/Shared/Unreal/wk5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/MR/7GAM1JI2P2OYHPY0IEPVP5.uasset",
 				"C:/Users/316975/OneDrive - Leeds Arts University/Year 2/502_Industry/Shared/Unreal/wk5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/7J/0ZWIRJIMS5TBM3P497YP7N.uasset",
 				"C:/Users/316975/OneDrive - Leeds Arts University/Year 2/502_Industry/Shared/Unreal/wk5/Content/Assets/yellowPixel_Mat.uasset",
-				"C:/Program Files/Epic Games/5.6/Engine/Content/EditorMeshes/MatineeCam_SM.uasset",
 				"C:/Users/316975/OneDrive - Leeds Arts University/Year 2/502_Industry/Shared/Unreal/wk5/Content/Blueprints/BPI_WaveSpawn.uasset",
 				"C:/Users/316975/OneDrive - Leeds Arts University/Year 2/502_Industry/Shared/Unreal/wk5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/N3/FQV2FW1I8D4Z06TF38UTCR.uasset",
 				"C:/Users/316975/OneDrive - Leeds Arts University/Year 2/502_Industry/Shared/Unreal/wk5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/QB/9YXJRQGLS33G0BEH37USBX.uasset",

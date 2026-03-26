@@ -1185,3 +1185,30 @@ FPackageName: Skipped package /Game/Sound/reload1 has a valid, mounted, mount po
 [2026.03.26-14.58.20:832][155]LogInterchangeEngine: [Pending] Importing - Operation completed.
 [2026.03.26-14.58.20:832][155]LogInterchangeEngine: [Success] Import Done
 [2026.03.26-14.59.59:192][452]LogDerivedDataCache: C:/Users/319842/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.26-15.01.49:093][707]LogStreaming: Display: FlushAsyncLoading(2005): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.26-15.02.28:101][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.03.26-15.02.28:104][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-15.02.28:149][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/JoshAssets/Assets/Mozzy] ([1] browsable assets)...
+[2026.03.26-15.02.28:151][377]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/JoshAssets/Assets/Mozzy.Mozzy]
+[2026.03.26-15.02.28:151][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/JoshAssets/Assets/Mozzy]
+[2026.03.26-15.02.28:151][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/JoshAssets/Assets/Mozzy" FILE="../../../../../../503/wk7.2/Content/Characters/JoshAssets/Assets/Mozzy.uasset" SILENT=true
+[2026.03.26-15.02.28:162][377]LogSavePackage: Moving output files for package: /Game/Characters/JoshAssets/Assets/Mozzy
+[2026.03.26-15.02.28:162][377]LogSavePackage: Moving '../../../../../../503/wk7.2/Saved/MozzyC999D769449F83211F8EC4A7A97F8CA8.tmp' to '../../../../../../503/wk7.2/Content/Characters/JoshAssets/Assets/Mozzy.uasset'
+[2026.03.26-15.02.28:163][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/JoshAssets/Assets/Mozzy_Sprite] ([1] browsable assets)...
+[2026.03.26-15.02.28:164][377]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/JoshAssets/Assets/Mozzy_Sprite.Mozzy_Sprite]
+[2026.03.26-15.02.28:164][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/JoshAssets/Assets/Mozzy_Sprite]
+[2026.03.26-15.02.28:164][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/JoshAssets/Assets/Mozzy_Sprite" FILE="../../../../../../503/wk7.2/Content/Characters/JoshAssets/Assets/Mozzy_Sprite.uasset" SILENT=true
+[2026.03.26-15.02.28:172][377]LogSavePackage: Moving output files for package: /Game/Characters/JoshAssets/Assets/Mozzy_Sprite
+[2026.03.26-15.02.28:172][377]LogSavePackage: Moving '../../../../../../503/wk7.2/Saved/Mozzy_Sprite1C7630A94A00BB17242C33844738104A.tmp' to '../../../../../../503/wk7.2/Content/Characters/JoshAssets/Assets/Mozzy_Sprite.uasset'
+[2026.03.26-15.02.28:181][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.637 ms
+[2026.03.26-15.02.28:211][377]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.26-15.02.28:211][377]LogContentValidation: Enabled validators:
+[2026.03.26-15.02.28:211][377]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.26-15.02.28:211][377]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.26-15.02.28:211][377]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.26-15.02.28:211][377]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.26-15.02.28:211][377]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.26-15.02.28:211][377]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.26-15.02.28:212][377]AssetCheck: /Game/Characters/JoshAssets/Assets/Mozzy Validating asset
+[2026.03.26-15.02.28:212][377]AssetCheck: /Game/Characters/JoshAssets/Assets/Mozzy_Sprite Validating asset
+[2026.03.26-15.02.28:232][377]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../503/wk7.2/Saved/SourceControl/UncontrolledChangelists.json
